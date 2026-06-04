@@ -1,0 +1,21 @@
+streamlit
+yfinance
+plotly
+pandas
+numpy
+scikit-learn
+ta
+requests
+torch
+transformers
+pydantic
+google-generativeai
+chromadb
+
+
+
+langchain== 1.2.8
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+langchain_classic == 1.0.1 
